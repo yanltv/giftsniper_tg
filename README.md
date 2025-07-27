@@ -1,4 +1,4 @@
-# GiftSniper
+# GiftSniper🎁
 
 A short description about the project and/or client.
 
