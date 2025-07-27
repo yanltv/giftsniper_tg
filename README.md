@@ -1,59 +1,22 @@
-# GiftSniper🎁
+# 🎁 GiftSniper
 
-A short description about the project and/or client.
+**GiftSniper** is a Telegram bot that instantly notifies users about new limited-time gifts in Telegram.  
+It automatically checks for updates and sends gift details, including price and ID, along with a sticker preview.
 
-## Getting Started
+---
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## 🚀 Getting Started
 
-### Prerequisites
+### 📋 Requirements
 
-The things you need before installing the software.
+Make sure you have:
 
-* You need this
-* And you need this
-* Oh, and don't forget this
+- Python 3.10 or higher
+- `pip` installed
+- Telegram Bot Token from [@BotFather](https://t.me/BotFather)
+- `api_id` and `api_hash` from [my.telegram.org](https://my.telegram.org)
 
-### Installation
+Install dependencies:
 
-A step by step guide that will tell you how to get the development environment up and running.
-
-```
-$ First step
-$ Another step
-$ Final step
-```
-
-## Usage
-
-A few examples of useful commands and/or tasks.
-
-```
-$ First example
-$ Second example
-$ And keep this in mind
-```
-
-## Deployment
-
-Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
-
-### Server
-
-* Live:
-* Release:
-* Development:
-
-### Branches
-
-* Master:
-* Feature:
-* Bugfix:
-* etc...
-
-## Additional Documentation and Acknowledgments
-
-* Project folder on server:
-* Confluence link:
-* Asana board:
-* etc...
+```bash
+pip install -r requirements.txt
